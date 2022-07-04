@@ -52,8 +52,8 @@ const allSkills = [
     },
     {
         title: 'TypeScript',
-        width: '65%',
-        text: '65%',
+        width: '35%',
+        text: '35%',
     }
 ]
 const Skills = () => {
